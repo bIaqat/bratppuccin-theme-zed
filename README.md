@@ -6,7 +6,7 @@ A theme for brats and coffee lovers, influenced by the cute, cozy, and comfertin
 ## Preview
 
 ### Espresso
-<img src="assets/espressso.png" width="670">
+<img src="assets/espresso.png" width="670">
 
 ### Shot
 <img src="assets/shot.png" width="670">
