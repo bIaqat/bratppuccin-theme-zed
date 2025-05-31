@@ -1,4 +1,4 @@
-# Bratppuccin Theme
+# Bratppuccin Theme (Name might change)
 `variants: [Espresso, Shot]`
 
 A theme for brats and coffee lovers, influenced by the cute, cozy, and comferting colors of coffee and inspired by the Catppuccin Color Pallete.
